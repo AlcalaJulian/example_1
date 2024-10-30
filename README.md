@@ -17,3 +17,17 @@ Descripcion
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/tu-usuario/FitnessApp.git
+
+
+## Pantalla de Estadísticas
+
+💻 Uso
+Inicia sesión o crea una cuenta.
+Configura tus objetivos.
+¡Empieza a registrar tus entrenamientos y a ver tu progreso!
+📚 Estructura del Proyecto
+lib/: Contiene todo el código fuente de la app.
+models/: Modelos de datos de la aplicación.
+screens/: Todas las pantallas de la app.
+widgets/: Widgets personalizados reutilizables.
+services/: Servicios de autenticación, base de datos, etc
