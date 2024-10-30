@@ -31,3 +31,13 @@ models/: Modelos de datos de la aplicación.
 screens/: Todas las pantallas de la app.
 widgets/: Widgets personalizados reutilizables.
 services/: Servicios de autenticación, base de datos, etc
+
+Contribuciones
+¡Las contribuciones son bienvenidas! Para contribuir:
+
+Haz un fork del proyecto.
+Crea una nueva rama (git checkout -b feature/NuevaFeature).
+Haz tus cambios y crea un pull request.
+📄 Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
